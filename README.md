@@ -66,10 +66,10 @@ SET @input_list = '[
   }
 ]';
 
-```sql
+
 SET @input_list = '...';
 CALL sys.HEATWAVE_LOAD(CAST(@input_list AS JSON), NULL);
-
+```sql
 
 HeatWave automatically infers the schema and enables queries over the Delta Lake dataset without physical ingestion.
 
