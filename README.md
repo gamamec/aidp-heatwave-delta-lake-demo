@@ -2,8 +2,6 @@
 
 ## Architecture
 
-![Architecture Diagram](images/aidp-heatwave.png)
-
 
 ## Overview
 
